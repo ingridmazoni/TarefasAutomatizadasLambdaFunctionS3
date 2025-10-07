@@ -1,0 +1,1 @@
+# TarefasAutomatizadasLambdaFunctionS3
